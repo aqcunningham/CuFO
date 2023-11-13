@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    /* height: fit-content !important; */
+    background-color: #4C8ECE !important;
+    color: #ffffff !important;
+
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Borel', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Noto Sans Tai Viet', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+
+#cufo {
+    font-size: 6.5rem !important;
+    font-weight: 300;
+    font-family: 'Barlow Condensed', sans-serif;
+
+}
+
+#h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-style: italic;
+    font-weight: 100;
+}
+
+.text-center {
+    margin-top: 0rem !important;
+}
