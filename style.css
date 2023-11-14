@@ -4,7 +4,8 @@ body {
     justify-content: center;
     min-height: 100vh;
     /* height: fit-content !important; */
-    background-color: #4C8ECE !important;
+    background-color: #31855c !important;
+    /* background-color: #4C8ECE !important; */
     color: #ffffff !important;
 
     font-family: 'Barlow Condensed', sans-serif;
