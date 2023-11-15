@@ -1,13 +1,11 @@
 body {
+    /* some changes for testing */
     display: flex;
     flex-direction: column;
     justify-content: center;
     min-height: 100vh;
-
-    /* height: fit-content !important; */
-    /* new green color */
-    background-color: #31855c !important;
-    /* background-color: #4C8ECE !important; */
+    /* background-color: #31855c !important; */
+    background-color: #4C8ECE !important;
     color: #ffffff !important;
 
     font-family: 'Barlow Condensed', sans-serif;
