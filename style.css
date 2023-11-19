@@ -3,9 +3,10 @@ body {
     flex-direction: column;
     justify-content: center;
     min-height: 100vh;
-    /* green, for later background-color: #31855c !important; */
+    /* green, for later  */
+    background-color: #31855c !important;
     /* test blue color */
-    background-color: #4C8ECE !important;
+    /* background-color: #4C8ECE !important; */
     color: #ffffff !important;
 
     font-family: 'Barlow Condensed', sans-serif;
