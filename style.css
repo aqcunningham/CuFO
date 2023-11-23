@@ -18,21 +18,30 @@ body {
 }
 
 #cufo {
-    font-size: 6.5rem !important;
+    font-size: 4rem;
     font-weight: 300;
     font-family: 'Barlow Condensed', sans-serif;
 
 }
 
 #h2 {
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 p {
+    font-size: .9rem;
     font-style: italic;
     font-weight: 100;
 }
-
+@media(min-width:768px){
+    #cufo {
+      font-size: 6.5rem;}
+  #h2 {
+    font-size: 1.5rem;
+}
+  p {
+    font-size: 1.2rem;}
+}
 .text-center {
     margin-top: 0rem !important;
 }
