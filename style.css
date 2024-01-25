@@ -4,7 +4,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     /* green, for later  */
-    background-color: #31855c !important;
+    background-color: #67a3bc !important;
     /* test blue color */
     /* background-color: #4C8ECE !important; */
     color: #ffffff !important;
@@ -19,7 +19,7 @@ body {
 
 #cufo {
     font-size: 4rem;
-     font-weight: 300;
+    font-weight: 300;
     font-family: 'Barlow Condensed', sans-serif;
 
 }
@@ -33,16 +33,23 @@ p {
     font-style: italic;
     font-weight: 100;
 }
-@media(min-width:768px){
-    /* fro 768 and up */
+
+@media(min-width:768px) {
+
+    /* for 768 and up */
     #cufo {
-      font-size: 6.5rem;}
-  #h2 {
-    font-size: 1.5rem;
+        font-size: 6.5rem;
+    }
+
+    #h2 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1.2rem;
+    }
 }
-  p {
-    font-size: 1.2rem;}
-}
+
 .text-center {
     margin-top: 0rem !important;
 }
