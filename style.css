@@ -34,6 +34,7 @@ p {
     font-weight: 100;
 }
 @media(min-width:768px){
+    /* fro 768 and up */
     #cufo {
       font-size: 6.5rem;}
   #h2 {
