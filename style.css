@@ -8,13 +8,13 @@ body {
     /* test blue color */
     /* background-color: #4C8ECE !important; */
     color: #ffffff !important;
-
+    /* 
     font-family: 'Barlow Condensed', sans-serif;
     font-family: 'Borel', cursive;
     font-family: 'Josefin Sans', sans-serif;
     font-family: 'Libre Baskerville', serif;
     font-family: 'Noto Sans Tai Viet', sans-serif;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif; */
 }
 
 #cufo {
@@ -26,12 +26,15 @@ body {
 
 #h2 {
     font-size: 1rem;
+    letter-spacing: .1rem;
 }
 
 p {
     font-size: .9rem;
     font-style: italic;
-    font-weight: 100;
+    font-weight: 50 !important;
+    font-weight: lighter;
+
 }
 
 @media(min-width:768px) {
